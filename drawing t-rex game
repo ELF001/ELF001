@@ -1,0 +1,19 @@
+var T-rex;
+T-rex = createSprite(200,203,30,30)
+T-rex.setAnimation("rex 1");
+T-rex.scale = 0.7;
+
+
+
+
+var plant;
+plant= createSprite(166,265,20,20);
+ball.setAnimation("plant...1...");
+ball.scale=0.7;
+
+
+
+var canvas;
+canvas= createSprite(200,203,100,100);
+canvas.setAnimation(" ")
+canvas.scale = 0.7
